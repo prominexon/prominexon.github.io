@@ -1,0 +1,40 @@
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+.tagline {
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
+main {
+    padding: 2rem;
+}
+
+.about, .info {
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
